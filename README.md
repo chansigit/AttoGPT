@@ -1,2 +1,3 @@
 # AttoGPT
-a very lightweight teaching project for gpt
+
+a very lightweight gpt model for experimental purposes.
